@@ -65,7 +65,7 @@
 > **Exemplo da interface:**  
 > *(Adicione seu print abaixo desta linha!)*
 
-![Macro Recorder Pro Print](./screenshot.png)
+![Macro Recorder Pro Print](./imgs/screenshot.png)
 
 ---
 
