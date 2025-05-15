@@ -32,9 +32,9 @@
     ```
     O executável estará em `dist\`.
 
----
 
-## ⚠️ Aviso para usuários do Windows
+
+### ⚠️ Aviso para usuários do Windows
 
 > Ao abrir o Macro Recorder Pro pela primeira vez, o Windows Defender SmartScreen pode mostrar um alerta vermelho dizendo “Fornecedor desconhecido”.
 >
