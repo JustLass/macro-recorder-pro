@@ -1,0 +1,9 @@
+# Arquivos e pastas de build
+build/
+dist/
+*.exe
+*.deb
+__pycache__/
+*.pyc
+*.pyo
+*.spec
