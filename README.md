@@ -34,6 +34,19 @@
 
 ---
 
+## ⚠️ Aviso para usuários do Windows
+
+> Ao abrir o Macro Recorder Pro pela primeira vez, o Windows Defender SmartScreen pode mostrar um alerta vermelho dizendo “Fornecedor desconhecido”.
+>
+> Isso acontece porque o programa é novo e não possui assinatura digital (normal em projetos open source).
+
+- Clique em **"Mais informações"**
+- Depois clique em **"Executar assim mesmo"**
+
+O programa é seguro, mas fique à vontade para auditar o código-fonte antes de usar!
+
+---
+
 ### **Linux**
 
 1. Instale Python 3 (geralmente já vem com o sistema)
